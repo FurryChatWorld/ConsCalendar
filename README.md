@@ -1,4 +1,4 @@
-# PartyCalendar
+# ConsCalendar
 
 兽聚档期日历自动更新至手机日历
 
